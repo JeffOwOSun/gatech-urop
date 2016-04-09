@@ -1,0 +1,6 @@
+*.jpg
+*.caffemodel
+*.solverstate
+*.txt
+*.json
+*.png
